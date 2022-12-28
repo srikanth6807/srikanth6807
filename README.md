@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @srikanth6807
 - 👀 I’m interested in ...gain knowledge about Automation Testing
-- 🌱 I’m currently learning ...Automation testing ,Manual , Selenium
+- 🌱 I completed my course  ...Automation testing ,Manual , Selenium
 - 💞️ I’m looking to collaborate on ...QA team
 - 📫 How to reach me ...via email 
 
